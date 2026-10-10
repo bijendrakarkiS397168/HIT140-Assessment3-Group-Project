@@ -1,0 +1,197 @@
+[
+  {
+    "date": "2026-06-11",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611",
+    "sha256": "e1f0f045883ec6d0ecb32e0ef402f97b8fc2edf78c9e9ebbb246f49f2bcfb2c0"
+  },
+  {
+    "date": "2026-06-12",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260612",
+    "sha256": "92e956c6bb13dde997a9b5b6cda721e4917162f24f2b3a1ff7a9e22029aee466"
+  },
+  {
+    "date": "2026-06-13",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260613",
+    "sha256": "abe16c68fbe0a5c395240e8b148ab932a09e3bb4716b1c1126b8ff06536cf2af"
+  },
+  {
+    "date": "2026-06-14",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260614",
+    "sha256": "6636437664ab496b4f4b1dde743aae1d37f39e4a7e827f15b32d80cfea0e4b46"
+  },
+  {
+    "date": "2026-06-15",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260615",
+    "sha256": "ad8d9960f5123330e5f713b7afba45d19db8a4c925e2a57d6c08254d75093244"
+  },
+  {
+    "date": "2026-06-16",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260616",
+    "sha256": "3ecb4dfda785f95ab68452339f0ceb3f308f7229a0c889c47d59af4c3b55349a"
+  },
+  {
+    "date": "2026-06-17",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260617",
+    "sha256": "012c31da0f5152cb23992e8ad3722282dc5a84c73c371d71bc53b74c8ce38e5f"
+  },
+  {
+    "date": "2026-06-18",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260618",
+    "sha256": "9b79c835161989a9600125b9966afae479446c613deee4c604b4a31f08dfb95f"
+  },
+  {
+    "date": "2026-06-19",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260619",
+    "sha256": "75aaa38186f2271681cf70c597386150750b50906a53c0e49108bb829d875c6f"
+  },
+  {
+    "date": "2026-06-20",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260620",
+    "sha256": "9ca6e81b0988fba4e4b5a3dee71d14d29f13414bc0539e15bcd0563ba4e52de4"
+  },
+  {
+    "date": "2026-06-21",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260621",
+    "sha256": "88c7a15c127aea6e451fa0b5201d735610b8cc5c4e1e55fcb3230bbee8287363"
+  },
+  {
+    "date": "2026-06-22",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260622",
+    "sha256": "945f389fe76823970276c8d70d19a4a4b3ee2f0359b4ea71f1490e304ef86d30"
+  },
+  {
+    "date": "2026-06-23",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260623",
+    "sha256": "5b821fe8a815222fdfc0e4fea8594c10f10a3fab98426fd5ef4813e502499cd0"
+  },
+  {
+    "date": "2026-06-24",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260624",
+    "sha256": "7bbf39a2af2f7617230b9761bd90119df2fdd76ca4b4ddf658b0cd74811a06cd"
+  },
+  {
+    "date": "2026-06-25",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260625",
+    "sha256": "88084367b4b3183431449a89354b57b85073e1c27556822983713fa23ca4be05"
+  },
+  {
+    "date": "2026-06-26",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260626",
+    "sha256": "ed2e7bbf89694e0f68fcc83e7e571a919eb1898ee5ce343f43b92ce4cd4ca7a7"
+  },
+  {
+    "date": "2026-06-27",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260627",
+    "sha256": "60346e1c6dc0bede422de3bee5c534dccb23a9b39f668073cb1e9e6e12f17bd8"
+  },
+  {
+    "date": "2026-06-28",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260628",
+    "sha256": "05451febda1f8c0e8829f9d881207af8ae0d8bec438c5090fe90b3d47ea0f2c8"
+  },
+  {
+    "date": "2026-06-29",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260629",
+    "sha256": "768fdeb542ae31f50d39e631bcc6e8c2a2c76f42246828fc549870d46d2fa6a4"
+  },
+  {
+    "date": "2026-06-30",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260630",
+    "sha256": "2d6f7ef10d47dc339a1edba46eddbf1c92be7c416a37f006cf5553361cc8a1ae"
+  },
+  {
+    "date": "2026-07-01",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260701",
+    "sha256": "d9ed64744c30d4d01e86cb6fe05ca2cfc07eb755b0ba77699e540471d4181abb"
+  },
+  {
+    "date": "2026-07-02",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260702",
+    "sha256": "c38c9fde57c405ac32c3d92e0863ddeb16f9afda3ec3f3fa7ba670f2f96bb7a1"
+  },
+  {
+    "date": "2026-07-03",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260703",
+    "sha256": "f92919ecbf6e11326a00947d1ba96428a840e7094864831fe27e65379dffe4ad"
+  },
+  {
+    "date": "2026-07-04",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260704",
+    "sha256": "85b6f75fc3002cec5d1b9145d8368ae9ce50e0b2108b0caf2c703c9533edde06"
+  },
+  {
+    "date": "2026-07-05",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260705",
+    "sha256": "574ed63ae70e2c848eeb61a48392d25499a00d25047f7c6a3b16a5367075e3f4"
+  },
+  {
+    "date": "2026-07-06",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260706",
+    "sha256": "a946ddbc313a514334ecbc5c3c983dba27ad516d97f734ebbca07df4d2231886"
+  },
+  {
+    "date": "2026-07-07",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260707",
+    "sha256": "07f0af32a0244db3ca1bdaa89632947b706fe8ad2fbf4facfc54007e04157f1c"
+  },
+  {
+    "date": "2026-07-08",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260708",
+    "sha256": "48ff9e320c96792aac6350092516d90e966ee23b528a44750cad5bb4c9b94cb9"
+  },
+  {
+    "date": "2026-07-09",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260709",
+    "sha256": "b17384eebc540809a80c277f604d649c24e72141124ec49d73659ffda9567b20"
+  },
+  {
+    "date": "2026-07-10",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260710",
+    "sha256": "a1c9a02fb787340c9ba0550f7181b5dd4c39cde7fcb6268f89d4ac64ee6ae467"
+  },
+  {
+    "date": "2026-07-11",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260711",
+    "sha256": "22f1d72d582dfba930b9e6732a626333753a06af8eff2bb4c4f81a6321801816"
+  },
+  {
+    "date": "2026-07-12",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260712",
+    "sha256": "48ff9e320c96792aac6350092516d90e966ee23b528a44750cad5bb4c9b94cb9"
+  },
+  {
+    "date": "2026-07-13",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260713",
+    "sha256": "48ff9e320c96792aac6350092516d90e966ee23b528a44750cad5bb4c9b94cb9"
+  },
+  {
+    "date": "2026-07-14",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260714",
+    "sha256": "1f4c6749df820a29d29525171daf0e211d6fad579fe1df055daec963fd0558e2"
+  },
+  {
+    "date": "2026-07-15",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260715",
+    "sha256": "f7e803d12aa44bb5f6dfa469bddb0fff40c573920d5f43c933261dc97a20d6a2"
+  },
+  {
+    "date": "2026-07-16",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260716",
+    "sha256": "48ff9e320c96792aac6350092516d90e966ee23b528a44750cad5bb4c9b94cb9"
+  },
+  {
+    "date": "2026-07-17",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260717",
+    "sha256": "48ff9e320c96792aac6350092516d90e966ee23b528a44750cad5bb4c9b94cb9"
+  },
+  {
+    "date": "2026-07-18",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260718",
+    "sha256": "08dd0965897d92666c95132b1a034ff6aaa9222089e7224f80e68650b7d74e4e"
+  },
+  {
+    "date": "2026-07-19",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260719",
+    "sha256": "df9d12fa5ea9b8192b6a1e513f2adf2a6b6e8a74605c81509436679218ea624d"
+  }
+]

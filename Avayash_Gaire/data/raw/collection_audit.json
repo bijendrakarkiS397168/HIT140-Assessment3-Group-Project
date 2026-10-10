@@ -1,0 +1,24 @@
+{
+  "status": "real_source_results_crosschecked_retrospective_features",
+  "matches": 104,
+  "team_match_rows": 208,
+  "independent_score_agreements": 104,
+  "history_rows": 49945,
+  "source_snapshots_sha256": {
+    "international_results.csv": "b38434f8f74cd9faacb269eb1c97760fc2dfac43fcb211779e0bd2cbb48f89e3",
+    "international_README.md": "0d50b5f6fe2b658eba52a4477e4e48af6ca61e89e2c5265b153e3c12d7305b76",
+    "international_LICENSE.txt": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "history_commit.json": "03995572a8ce885e3d0217e911a923412346765c1f7e4182259c92b3f1e5b3b8",
+    "espn_events.json": "73a292c4a3ea331e1d0496dc3d5497e65f234284db12611c0dd54f91f02e8444",
+    "espn_download_audit.json": "4c1f81be2751e610038d551457db825962a359935085e21a0f908d82fea5e97d"
+  },
+  "unrelated_ambiguous_history_rows": 2,
+  "unrelated_history_note": "Two conflicting Tahiti/New Caledonia records dated 1974-02-17 are retained in the source snapshot, flagged, and do not enter any participating team history. No silent deduplication.",
+  "score_convention": "Final score including extra time, excluding penalty-shootout goals",
+  "availability_assumptions": {
+    "history": "Eligible only after date + 2 UTC days, strictly before target kickoff",
+    "training_labels": "Known-by bound kickoff + 24 hours",
+    "host_context": "Assumed scheduled venue/host-country classification known seven days before kickoff"
+  },
+  "limitations": "Snapshots were downloaded after the tournament. Availability bounds are conservative assumptions, not archival publication timestamps. Verify any rescheduling or retrospective corrections; source agreement is corroboration, not proof of source independence."
+}
