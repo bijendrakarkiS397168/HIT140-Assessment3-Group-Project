@@ -1,1 +1,0 @@
-goal_difference = 0.1192766666 +0.6814316797 * goals_for_last10_diff -0.8004739298 * goals_against_last10_diff -0.8315009686 * win_rate_last10_diff -0.0003186234338 * days_since_last_match_diff +0.01814470799 * matches_last365_diff -0.4650883386 * goal_difference_std_last10_diff +0.07697334987 * wc_appearances_diff +0.5202720656 * host_advantage_diff
