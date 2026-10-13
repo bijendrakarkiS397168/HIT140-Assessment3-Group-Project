@@ -1,0 +1,9 @@
+{
+  "training_R2": 0.19877354501581757,
+  "training_adjusted_R2": 0.16374725190175488,
+  "breusch_pagan_LM_pvalue": 0.01994564383196837,
+  "condition_number_standardized_design": 5.278423432418855,
+  "flagged_cooks_distance_gt_4_over_n": 11,
+  "inference": "match-clustered",
+  "caution": "Exploratory diagnostics only. Repeated teams and time dependence remain; p-values are not causal evidence. No automatic outlier deletion."
+}

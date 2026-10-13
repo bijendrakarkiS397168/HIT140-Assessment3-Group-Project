@@ -1,0 +1,1 @@
+goals_scored = 1.962521134 +0.8273630769 * goals_for_last10 +0.2554000363 * opponent_goals_against_last10 -0.001631515071 * days_since_last_match -2.029862979 * opponent_win_rate_last10 -0.6508478808 * scoring_rate_last10 -0.1006029918 * opponent_clean_sheet_rate_last10 -0.2315777156 * goals_for_std_last10 -1.268264425 * opponent_draw_rate_last10
