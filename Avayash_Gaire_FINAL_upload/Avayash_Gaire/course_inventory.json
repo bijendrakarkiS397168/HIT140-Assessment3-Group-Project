@@ -1,0 +1,132 @@
+[
+  {
+    "file": "1 (1).epub",
+    "sha256": "d909cafa21b67047d04de0b52fbde79207baaa3c20469bea7b04cb9a3926db57",
+    "characters": 6115
+  },
+  {
+    "file": "1 (2).epub",
+    "sha256": "1e578e8234d7c90523a3385cfc82f2493f58d951616d0971d0db3cba6d806897",
+    "characters": 4378
+  },
+  {
+    "file": "2 (1).epub",
+    "sha256": "b646c1037969bf96fd0c444324077107319a628023c8029827df0f36f7f55519",
+    "characters": 16961
+  },
+  {
+    "file": "2 (2).epub",
+    "sha256": "d628da4d2ac181d1d6c35d0ad99f9e88c2ca3bc5818de52dc1031ba968a6100e",
+    "characters": 3848
+  },
+  {
+    "file": "2 (3).epub",
+    "sha256": "d628da4d2ac181d1d6c35d0ad99f9e88c2ca3bc5818de52dc1031ba968a6100e",
+    "characters": 3848
+  },
+  {
+    "file": "3 (1).epub",
+    "sha256": "a448a37dea13ca7d499509938c8f26c20887351c7cf8b14d7e176579739e0255",
+    "characters": 839
+  },
+  {
+    "file": "3 (2).epub",
+    "sha256": "929064f9a96b58f69e401ad0eba8f27e53caea140760b991eb1b74404034aae3",
+    "characters": 3080
+  },
+  {
+    "file": "4 (1).epub",
+    "sha256": "0276f9b8e49fc8c57539122a77d8b344a20a929057f338d7237419b7bf73d782",
+    "characters": 15393
+  },
+  {
+    "file": "4 (2).epub",
+    "sha256": "093bd87cfb4798441b73453dc7c46456cdf50a1cf404272ce79f38e4b46ffa95",
+    "characters": 3260
+  },
+  {
+    "file": "5 (1).epub",
+    "sha256": "2c5c31ec4865f5c4b72eb5eaf17ae9b518013b5200a69146d79c0977f57db215",
+    "characters": 5599
+  },
+  {
+    "file": "5 (2).epub",
+    "sha256": "77084b60453c2aa82d01c327b96c038db49203fc2111dd57335cc7e94db35d6f",
+    "characters": 4466
+  },
+  {
+    "file": "6 (1).epub",
+    "sha256": "c2cb00bd338b4eaa202b71fe657ea77c3f50f4d8e9b61d9c767fecafeaddb1db",
+    "characters": 8471
+  },
+  {
+    "file": "6 (2).epub",
+    "sha256": "8a755967d965b037cfea2b13dfba4cf696af185e72e466b73aed8dd5a7e16740",
+    "characters": 5480
+  },
+  {
+    "file": "6 (3).epub",
+    "sha256": "8a755967d965b037cfea2b13dfba4cf696af185e72e466b73aed8dd5a7e16740",
+    "characters": 5480
+  },
+  {
+    "file": "7 (1).epub",
+    "sha256": "fe289873d11766234555477df0a39d0c89e0ca6cde5bd285e39a438c8d09b80f",
+    "characters": 4374
+  },
+  {
+    "file": "7 (2).epub",
+    "sha256": "fe289873d11766234555477df0a39d0c89e0ca6cde5bd285e39a438c8d09b80f",
+    "characters": 4374
+  },
+  {
+    "file": "8 (1).epub",
+    "sha256": "47b6739c3e654081b543070c6f2a987d7d77da6cb8f0b8db87754336327c9cde",
+    "characters": 2991
+  },
+  {
+    "file": "8.epub",
+    "sha256": "8e004d28bb6493e327140bd92a17051c4e9c4e23297f9d2d3e2ed3f8e56ad03e",
+    "characters": 5120
+  },
+  {
+    "file": "9 (1).epub",
+    "sha256": "06da98950266e673e45b26bf6e228871c8fd91bb61fafe1d9a4472669b0f06b2",
+    "characters": 10316
+  },
+  {
+    "file": "9.epub",
+    "sha256": "e1851ee80eb7943b3672f67dae3d858f7a4c812eed9872eddfe3253f6a0be91f",
+    "characters": 6028
+  },
+  {
+    "file": "Module Overview (1).epub",
+    "sha256": "e7690494b1159a4f57e489f628d37b45e4cad706ef62111fbef218d32f9f9d74",
+    "characters": 1320
+  },
+  {
+    "file": "Module Overview.epub",
+    "sha256": "570d0c205d17084545f04043a43fb415cebcb2d4c89c39618e1928c6988e465c",
+    "characters": 810
+  },
+  {
+    "file": "Module Summary (1).epub",
+    "sha256": "566aa57e6779b3330cf231af6a9e6c054ec3411f605088caa65b94164be6aebc",
+    "characters": 1515
+  },
+  {
+    "file": "Module Summary (2).epub",
+    "sha256": "1584bf1a478267acbd4248297b0c61be82e9af46c26fcd9eeefebd762708cf65",
+    "characters": 695
+  },
+  {
+    "file": "Module Summary.epub",
+    "sha256": "43f41d71f2851350cba54a06beebf008df44e2417fc20bf9cc2270ab3d27e6dd",
+    "characters": 2137
+  },
+  {
+    "file": "table-t-statistics.epub",
+    "sha256": "4e5ff29f6d7264637683100556cd931ebed07154a60c4e7a0cfef448b632f6d6",
+    "characters": 4763
+  }
+]
