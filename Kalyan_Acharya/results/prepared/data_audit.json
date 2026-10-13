@@ -1,0 +1,32 @@
+{
+  "status": "validated_input_data",
+  "matches": 104,
+  "team_rows": 208,
+  "predictors_per_task": 8,
+  "shared_predictor_concepts": [
+    "days_since_last_match",
+    "goals_against_last10",
+    "goals_for_last10",
+    "win_rate_last10"
+  ],
+  "missing_raw_features": {
+    "goals_for_last10": 0,
+    "goals_against_last10": 0,
+    "win_rate_last10": 0,
+    "days_since_last_match": 0,
+    "matches_last365": 0,
+    "goal_difference_std_last10": 0,
+    "wc_appearances": 0,
+    "host_advantage": 0,
+    "scoring_rate_last10": 0,
+    "clean_sheet_rate_last10": 0,
+    "goals_for_std_last10": 0,
+    "draw_rate_last10": 0
+  },
+  "source_warning": "URLs and timestamps are checked structurally. Humans must verify source truth and the rolling-window calculations.",
+  "sha256": {
+    "matches.csv": "2deac6b02957822b1985ec3cf8eb6aed497fd847c35f55d2eb9ae4784718a428",
+    "prematch.csv": "e90c04a032bf82e79e1d1aa036911807807ab5f151ba14652a4c9bcd088f8214",
+    "provenance.csv": "05912aff315974b144a126ee7f2c99a581d7b4636e75565ea7e32919ae78ccb9"
+  }
+}
