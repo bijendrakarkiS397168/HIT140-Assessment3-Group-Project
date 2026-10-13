@@ -1,0 +1,28 @@
+test_all_real_matches_crosscheck_again_when_rebuilt (test_history.HistoryTests.test_all_real_matches_crosscheck_again_when_rebuilt) ... ok
+test_bundled_real_data_contract_and_warmup (test_history.HistoryTests.test_bundled_real_data_contract_and_warmup) ... ok
+test_current_and_future_outcomes_cannot_change_predictors (test_history.HistoryTests.test_current_and_future_outcomes_cannot_change_predictors) ... ok
+test_prior_ten_window_values (test_history.HistoryTests.test_prior_ten_window_values) ... ok
+test_recent_unsettled_history_excluded (test_history.HistoryTests.test_recent_unsettled_history_excluded) ... ok
+test_delayed_results_purged (test_project.ProjectTests.test_delayed_results_purged) ... ok
+test_duplicate_fixture_with_different_id_rejected (test_project.ProjectTests.test_duplicate_fixture_with_different_id_rejected) ... ok
+test_duplicate_match_rejected (test_project.ProjectTests.test_duplicate_match_rejected) ... ok
+test_full_pipeline_and_transparent_model (test_project.ProjectTests.test_full_pipeline_and_transparent_model) ... ok
+test_future_feature_rejected (test_project.ProjectTests.test_future_feature_rejected) ... ok
+test_holdout_and_folds_keep_matches_and_times_apart (test_project.ProjectTests.test_holdout_and_folds_keep_matches_and_times_apart) ... ok
+test_imputation_and_scaling_use_training_only (test_project.ProjectTests.test_imputation_and_scaling_use_training_only) ... ok
+test_missing_provenance_rejected (test_project.ProjectTests.test_missing_provenance_rejected) ... ok
+test_naive_time_rejected (test_project.ProjectTests.test_naive_time_rejected) ... ok
+test_non_numeric_feature_rejected (test_project.ProjectTests.test_non_numeric_feature_rejected) ... ok
+test_rank_deficiency_rejected (test_project.ProjectTests.test_rank_deficiency_rejected) ... ok
+test_shapes_targets_and_opponent_mapping (test_project.ProjectTests.test_shapes_targets_and_opponent_mapping) ... ok
+test_team_pair_mismatch_rejected (test_project.ProjectTests.test_team_pair_mismatch_rejected) ... ok
+test_wrong_match_count_rejected (test_project.ProjectTests.test_wrong_match_count_rejected) ... ok
+test_wrong_year_rejected (test_project.ProjectTests.test_wrong_year_rejected) ... ok
+test_browser_failure_preserves_results (test_view_results.ResultsPresentationTests.test_browser_failure_preserves_results) ... ok
+test_html_escapes_team_text_and_preserves_saved_values (test_view_results.ResultsPresentationTests.test_html_escapes_team_text_and_preserves_saved_values) ... ok
+test_no_open_prints_metrics_and_identity (test_view_results.ResultsPresentationTests.test_no_open_prints_metrics_and_identity) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 12.510s
+
+OK
