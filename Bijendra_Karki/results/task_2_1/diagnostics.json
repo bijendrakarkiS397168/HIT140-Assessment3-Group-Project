@@ -1,0 +1,9 @@
+{
+  "training_R2": 0.4164621073784931,
+  "training_adjusted_R2": 0.36280345058571084,
+  "breusch_pagan_LM_pvalue": 0.6969223663047913,
+  "condition_number_standardized_design": 4.281940628381721,
+  "flagged_cooks_distance_gt_4_over_n": 8,
+  "inference": "HC3 heteroskedasticity-robust",
+  "caution": "Exploratory diagnostics only. Repeated teams and time dependence remain; p-values are not causal evidence. No automatic outlier deletion."
+}
